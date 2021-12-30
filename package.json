@@ -1,0 +1,17 @@
+{
+  "name": "280tg",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chroma-js": "2.0.3",
+    "chromotome": "1.18.0",
+    "three": "^0.104.0"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  }
+}
